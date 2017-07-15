@@ -1,0 +1,32 @@
+body
+{
+	font-family: Calibri, Tahoma, Arial;
+	font-size: x-large;
+	color: #000000
+	
+}
+
+h1, h2, h3, h4
+{
+	color: #000000
+}
+
+/* unvisited link */
+a:link {
+    color: #001F3F; 
+}
+
+/* visited link */
+a:visited {
+    color: #001F3F;
+}
+
+/* mouse over link */
+a:hover {
+    color: #0074d9;
+}
+
+/* selected link */
+a:active {
+    color: #0074d9;
+}
